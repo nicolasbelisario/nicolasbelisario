@@ -1,5 +1,13 @@
-## Hi there 👋
+## Olá👋
 
+- 🏫 Análise e Desenvolvimento de Sistemas - 1° Semestre
+- 🛜 Técnico em Redes de Computadores
+- 🪢 Infraestrutura de Redes
+- ☁️ Computação em Nuvem
+- 👨‍💻 Novato em Programação
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbelisario&show_icons=true&theme=dark)](https://github.com/nicolasbelisario/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbelisario&theme=dark)
 <!--
 **nicolasbelisario/nicolasbelisario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
